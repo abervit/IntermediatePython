@@ -94,3 +94,4 @@ mydict = {3: 9, 6: 36, 9: 81}
 # print(mydict[0])  # --> KeyError: 0
 
 print(mydict[6])  # --> 36
+
